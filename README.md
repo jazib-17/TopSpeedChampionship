@@ -1,4 +1,4 @@
-# 🏎️ Qualifying Top Speed Championship
+# 🏁 Qualifying Top Speed Championship
 
 > *"Aerodynamics are for people who can't build engines."* — Enzo Ferrari
 
@@ -16,7 +16,19 @@ Teams are then ranked at each round and awarded points using the standard F1 sco
 
 Those points are accumulated across the season to produce a full alternate championship standings, round-by-round winners, and a progression chart.
 
-## 🏆 Results
+## 🏆 Results — 2025 Season
+
+**Ferrari takes the Top Speed Championship**, finishing on 373 points,  a 25-point margin over Red Bull Racing (348), with Mercedes close behind in 3rd (336). Those three pulled clear of the rest of the grid early and never looked back; 4th-placed McLaren finished 133 points adrift on 240.
+
+A few things stand out in the data:
+
+- **Red Bull started the season on top**, winning 3 of the first 4 rounds (Australia, China, Japan) before Ferrari caught and passed them by the Emilia Romagna/Monaco stretch — and stayed ahead the rest of the way.
+- **Mercedes made the biggest late-season move** of any team, visibly steepening their points climb from the Italian GP through Singapore and closing what had been a wide gap to 2nd place.
+- **Kick Sauber posted the single fastest qualifying speed of the entire season** — 355.0 km/h at the Singapore GP (Round 16) yet still finished only 8th overall on 200 points. A reminder that winning one round outright and stacking points consistently are two different things.
+- **Ferrari's title wasn't built on the single fastest lap of each round** — some of their round wins came in at relatively modest speeds (e.g. 282.0 km/h at Round 8, 303.0 km/h at Round 22), meaning their lead came from consistently winning rounds rather than always setting the outright fastest number.
+- **Aston Martin and Alpine tied on 211 points**, finishing level in the standings.
+- **McLaren's story is the most interesting relative to reality**: despite winning the real Constructors' Championship, they rarely topped the speed trap; a direct trade-off of the MCL39's high-downforce design, which cost it outright straight-line speed in exchange for cornering performance.
+- **Haas and Racing Bulls** were detached from the pack all year, the two most drag-limited cars of the season by this metric.
 
 ### Championship Progression
 A round-by-round look at how the standings evolved. Ferrari and Red Bull battled for the lead most of the season, with Mercedes staging a strong late-season charge.
@@ -85,7 +97,7 @@ Data is cached locally (in `fastf1_cache/`) to speed up repeated runs. To analyz
 
 - Points are calculated purely from qualifying top speed and have no bearing on the real-world championship.
 - Team colors in the charts/tables are pulled from FastF1's team color utilities.
-- This is a fun exploratory data project — top speed is just one variable in the much larger picture of F1 performance.
+- This is a fun exploratory data project, top speed is just one variable in the much larger picture of F1 performance.
 
 ---
 
