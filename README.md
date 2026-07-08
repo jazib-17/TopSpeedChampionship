@@ -6,7 +6,7 @@ What if the Formula 1 championship were decided purely on outright top speed? Th
 
 ## 📊 Concept
 
-Instead of race results, this analysis pulls the **highest speed trap reading (`SpeedST`) recorded by each team** (not driver) during every Grand Prix qualifying session. Qualifying data is used specifically to avoid the tow effects that can distort speed readings during races.
+Instead of race results, this analysis pulls the **highest speed trap reading recorded by each team** (not driver) during every Grand Prix qualifying session. Qualifying data is used specifically to avoid the tow effects that can distort speed readings during races.
 
 Teams are then ranked at each round and awarded points using the standard F1 scoring system:
 
