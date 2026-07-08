@@ -24,7 +24,7 @@ A few things stand out in the data:
 
 - **Red Bull started the season on top**, winning 3 of the first 4 rounds (Australia, China, Japan) before Ferrari caught and passed them by the Emilia Romagna/Monaco stretch — and stayed ahead the rest of the way.
 - **Mercedes made the biggest late-season move** of any team, visibly steepening their points climb from the Italian GP through Singapore and closing what had been a wide gap to 2nd place.
-- **Kick Sauber posted the single fastest qualifying speed of the entire season** — 355.0 km/h at the Singapore GP (Round 16) yet still finished only 8th overall on 200 points. A reminder that winning one round outright and stacking points consistently are two different things.
+- **Kick Sauber posted the single fastest qualifying speed of the entire season** — 355.0 km/h at the Italian GP (Round 16) yet still finished only 8th overall on 200 points. A reminder that winning one round outright and stacking points consistently are two different things.
 - **Ferrari's title wasn't built on the single fastest lap of each round** — some of their round wins came in at relatively modest speeds (e.g. 282.0 km/h at Round 8, 303.0 km/h at Round 22), meaning their lead came from consistently winning rounds rather than always setting the outright fastest number.
 - **Aston Martin and Alpine tied on 211 points**, finishing level in the standings.
 - **McLaren's story is the most interesting relative to reality**: despite winning the real Constructors' Championship, they rarely topped the speed trap; a direct trade-off of the MCL39's high-downforce design, which cost it outright straight-line speed in exchange for cornering performance.
