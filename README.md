@@ -51,7 +51,7 @@ Despite winning the actual 2025 Constructors' Championship, **McLaren rarely top
 
 ## ⚙️ How It Works
 
-The script (`analysis4.py`) uses [FastF1](https://github.com/theOehrly/Fast-F1) to:
+The script (`TopSpeedAnalysis.py`) uses [FastF1](https://github.com/theOehrly/Fast-F1) to:
 
 1. Pull the full event schedule for a given year (`2025` by default).
 2. Load every qualifying (`Q`) session.
@@ -79,7 +79,7 @@ pip install fastf1 pandas matplotlib
 ## ▶️ Usage
 
 ```bash
-python analysis4.py
+python TopSpeedAnalysis.py
 ```
 
 Data is cached locally (in `fastf1_cache/`) to speed up repeated runs. To analyze a different season, just change the `year` variable at the top of the script.
@@ -88,7 +88,7 @@ Data is cached locally (in `fastf1_cache/`) to speed up repeated runs. To analyz
 
 | File | Description |
 |---|---|
-| `analysis4.py` | Main analysis script |
+| `TopSpeedAnalysis.py` | Main analysis script |
 | `analysis4pic1.png` | Championship progression chart |
 | `analysis4pic2.png` | Final standings table |
 | `analysis4pic3.png` | Round-by-round winners table |
